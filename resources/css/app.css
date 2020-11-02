@@ -1,0 +1,8 @@
+body {
+    background-color: #82ab55;
+  }
+  
+  .navbar-custom .navbar-brand, 
+  .navbar-custom .navbar-text { 
+      color: green; 
+  } 
